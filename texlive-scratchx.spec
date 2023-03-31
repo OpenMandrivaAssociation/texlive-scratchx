@@ -1,6 +1,6 @@
 Name:		texlive-scratchx
 Version:	44906
-Release:	1
+Release:	2
 Summary:	Include Scratch programs in LaTeX documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scratchx
