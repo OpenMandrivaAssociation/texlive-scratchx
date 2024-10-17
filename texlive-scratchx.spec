@@ -3,7 +3,7 @@ Version:	44906
 Release:	2
 Summary:	Include Scratch programs in LaTeX documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scratchx
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/scratchx
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scratchx.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scratchx.doc.r%{version}.tar.xz
